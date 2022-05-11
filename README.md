@@ -1,25 +1,20 @@
 # README
+## Ruby on Rails API for buy-list-app Shopping List React Progressive Web Application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Dependencies:
 
-Things you may want to cover:
+* Ruby version 3.1.2
 
-* Ruby version
+* Rails version 7.0.2
 
-* System dependencies
+* RSPEC version 5.1
 
-* Configuration
+* Postgresql version 14
 
-* Database creation
+### Branches are the planned stages of development:
 
-* Database initialization
+1. MVP - Can add shopping locations and items for each location
+2. Authentication - Users must be authenticated prior to using application. Protected routes.
+3. Feature - Add additional input options and display options. Polished user experience.
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
 # BuyAPI
